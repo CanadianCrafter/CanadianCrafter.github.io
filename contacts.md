@@ -1,4 +1,5 @@
 ---
+theme: jekyll-theme-cayman
 layout: "page"
 title: Contacts
 permalink: /contacts/
