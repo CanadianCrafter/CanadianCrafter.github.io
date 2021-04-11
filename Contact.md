@@ -1,3 +1,9 @@
-# Contacts
+---
+layout: page
+title: Contacts
+permalink: /contacts/
+---
 
-GitHub: https://github.com/CanadianCrafter
+
+# Contacts
+[Github](https://github.com/CanadianCrafter)
