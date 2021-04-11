@@ -8,4 +8,4 @@ permalink: /contacts/
 
 # Contacts
 [Github](https://github.com/CanadianCrafter)
-[Linkedin])(https://www.linkedin.com/in/bryan-wang-7a765820b/)
+[Linkedin](https://www.linkedin.com/in/bryan-wang-7a765820b/)
