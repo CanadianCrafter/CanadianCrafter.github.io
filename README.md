@@ -1,0 +1,4 @@
+# Personal Website
+You can visit my personal website here: CanadianCrafter.github.io. Currently I am not done, but it will include a general profile page about me (no idea why no one would venture there), a photo gallery (cause I do photography), and a blog (about philosophy... you didn't actually expect me to talk authortatively on programming did you?). I also aim to make a Chinese version of the website as Chinese practice despite being functionally illiterate in the language.
+
+Aside from a bit of code I did for a hackathon, I had next to no experience in HTML, CSS, or JS before starting this project. Thanks to [HTML5 UP](http://html5up.net) and [Lokesh Dhakar's Lightbox Script](https://lokeshdhakar.com/projects/lightbox2/), which did a lot of the heavy lifting, and also showed me the ropes. It was only by studying and using their work that I gained some cursory knowledge in using HTML.
