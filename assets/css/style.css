@@ -3,6 +3,6 @@
 }
 
 .gallery img:hover {
-    /* filter: grayscale(30%); */
+    filter: grayscale(50%);
     transform: scale(1.1);
 }
