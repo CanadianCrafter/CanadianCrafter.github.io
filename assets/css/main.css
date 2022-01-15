@@ -2272,6 +2272,11 @@ input, select, textarea {
 			body, input, textarea, select {
 				font-size: 17pt;
 			}
+			#description{
+				font-size: 12pt;
+				padding: 0px 20px 0px 20px;
+
+			}
 
 		/* Header */
 
