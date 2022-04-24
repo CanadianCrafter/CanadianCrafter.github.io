@@ -1,0 +1,175 @@
+<!DOCTYPE HTML>
+<!--
+	Prologue by HTML5 UP
+	html5up.net | @ajlkn
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html>
+	<head>
+		<title>Bryan Wang | Photography </title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+		<link rel="stylesheet" href="assets/css/main.css" />
+		<link rel="stylesheet" href="assets/css/style.css" />
+		<link rel="stylesheet" href="assets/css/lightbox.min.css" />
+		<script src="assets/js/lightbox-plus-jquery.min.js"></script>
+		<link rel="shortcut icon" type="image/x-icon" href="favicon.ico?" />
+		<script>
+			String.format = function() {
+				var s = arguments[0];
+				for (var i = 0; i < arguments.length - 1; i++) {
+					var reg = new RegExp("\\{" + i + "\\}", "gm");
+					s = s.replace(reg, arguments[i + 1]);
+				}
+   
+				return s;
+			};
+   
+			console.log("Loading photos from gallery.")
+			// Load from gallery
+			var photoTemplate = '<article class="item"> ' +
+								'<a href="gallery/fullsize/{0}" data-lightbox="gallery" data-title="{2} <br> {3} >"' +
+								'class="image fit"><img src="gallery/thumbnails/{0}" width="420px" height="auto" loading="lazy" alt="{1}" /></a>' +
+								'<header><h3>{1}</h3></header>' +
+								'</article>';
+			$.getJSON('gallery.json', function(gallery) {
+				console.log("There are " + gallery.length + " photos to load.")
+				$.each(gallery, function(i, metadata) {
+					$('.gallery').append(
+						String.format(photoTemplate, metadata['file'], metadata['title'], metadata['description'], metadata['data']))
+				});
+				console.log("Photos loaded.")
+			});
+		   </script>
+	</head>
+	<body class="is-preload">
+
+		
+		<!-- Header -->
+			<div id="header">
+
+				<div class="top">
+
+					<!-- Logo -->
+						<div id="logo">
+							<span class="image avatar48"><img src="images/profile.jpg" width="48px" height="48px" alt="" /></span>
+							<h1 id="title">Bryan Wang</h1>
+							<p>UWaterloo CS '26</p>
+						</div>
+
+					<!-- Nav -->
+						<nav id="nav">
+							<ul>
+								<li><a href="index.html" id="top-link"><span class="icon solid fa-home">Home</span></a></li>
+								<li><a href="#gallery" id="gallery-link"><span class="icon solid fa-camera">Photo Gallery</span></a></li>
+								<li><a href="" id="blog-link"><span class="icon solid fa-newspaper">Blog (To Be Added)</span></a></li>
+							</ul>
+						</nav>
+
+				</div>
+
+				<div class="bottom">
+
+					<!-- Social Icons -->
+						<ul class="icons">
+							<li><a href="https://github.com/CanadianCrafter" target="_blank" rel="noopener noreferrer" class="icon brands fa-github"><span class="label">Github</span></a></li>
+							<li><a href="https://www.linkedin.com/in/bryan-wang-7a765820b/" target="_blank" rel="noopener noreferrer" class="icon brands fa-linkedin"><span class="label">Linkedin</span></a></li>
+							<li><a href="mailto:b397wang@uwaterloo.ca" class="icon solid fa-envelope"><span class="label">Email</span></a></li>
+							<li><a href="https://www.instagram.com/bryanwang2003/" target="_blank" rel="noopener noreferrer" class="icon brands fa-instagram"><span class="label">Instagram</span></a></li>
+							<li><a href="photography-cn.html" class="fas fa-language"><span class="label"></span></a></li>
+							<!-- <li><a href="#" class="icon brands fa-weixin"><span class="label">Weixin</span></a></li> -->
+						</ul>
+
+				</div>
+
+			</div>
+		
+		<!-- Main -->
+			<div id="main">
+
+				<!-- Intro -->
+					<section id="top" class="one dark cover">
+						<div class="container">
+
+							<header>
+								<h2 class="alt">Welcome To My Photo Gallery</h2>
+								<p>Come take a gander, there's lots to see.</p>
+							</header>
+
+							<footer>
+								<a href="index.html" class="button scrolly">Return to Home Page</a> 
+							</footer>
+
+						</div>
+					</section>
+
+				<!-- Photo Gallery -->
+				
+				<script>
+					lightbox.option({
+					  'wrapAround': true
+					})
+				</script>
+
+
+				<section id="gallery" class="two">
+					<div class="container">
+
+						<header>
+							<h2>Photo Gallery</h2>
+						</header>
+
+						<p> 
+							Photography is one of my greatest passions because it taught me how to see beauty in everything. Glistening skyscrapers reaching for the heavens, 
+							dilapidated buildings crumbling back to earth; nothing is either good or bad, thinking makes them so. I hope my perspective can help you 
+							appreciate life's beauty alongside me. Through photography, I explore and convey the 
+							humble sentiments tucked in my mind's recesses; my photos present life seen from my viewfinder. 
+							Feel free to accompany me on this journey.	
+							
+							<hr style="width:40%"> 
+							<br>
+							Click on the photos to see the photo's properties and description.
+						</p>
+						<div class="gallery">
+							
+						</div>
+					</div>
+				
+				</section>
+		
+			</div>
+
+		<!-- Footer -->
+			<div id="footer">
+
+				<!-- Icons -->
+				<ul class="icons">
+					<li><a href="https://github.com/CanadianCrafter" target="_blank" rel="noopener noreferrer" class="icon brands fa-github fa-2x"><span class="label">Github</span></a></li>
+					<li><a href="https://www.linkedin.com/in/bryan-wang-7a765820b/" target="_blank" rel="noopener noreferrer" class="icon brands fa-linkedin fa-2x"><span class="label">Linkedin</span></a></li>
+					<li><a href="mailto:b397wang@uwaterloo.ca" class="icon solid fa-envelope fa-2x"><span class="label">Email</span></a></li>
+					<li><a href="https://canadiancrafter.github.io/images/WeChatQRCode.jpg" data-lightbox="gallery" class="icon brands fa-weixin fa-2x"><span class="label">Weixin</span></a></li>
+					<li><a href="https://www.instagram.com/bryanwang2003/" target="_blank" rel="noopener noreferrer" class="icon brands fa-instagram fa-2x"><span class="label">Instagram</span></a></li>
+				</ul>
+
+				<!-- Copyright -->
+					<ul class="copyright">
+						<li>&copy; Bryan Wang. All rights reserved.</li>
+						<li>Design Based On: <a href="http://html5up.net">HTML5 UP</a></li>
+						<li>Lightbox Script By: <a href="https://lokeshdhakar.com/projects/lightbox2/">Lokesh Dhakar</a></li>
+					</ul>
+
+			</div>
+
+		<!-- Scripts -->
+			<script src="assets/js/jquery.min.js"></script>
+			<script src="assets/js/jquery.scrolly.min.js"></script>
+			<script src="assets/js/jquery.scrollex.min.js"></script>
+			<script src="assets/js/browser.min.js"></script>
+			<script src="assets/js/breakpoints.min.js"></script>
+			<script src="assets/js/util.js"></script>
+			<script src="assets/js/main.js"></script>
+			<script src="assets/js/masonry.pkgd.min.js"></script>
+      		<script src="assets/js/imagesloaded.pkgd.min.js"></script>
+
+	</body>
+</html>
