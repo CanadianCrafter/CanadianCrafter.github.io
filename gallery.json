@@ -150,5 +150,413 @@
         "title-cn": "骑自行车者",
         "description-cn": "公路下的骑自行车者。他满脸尴尬是不是因为我？Oops。",
         "data": "Nikon D90 | f/8 | f/160 sec | ISO 200 | 105 mm (1.5x crop body)"
+    },
+    {
+        "file": "image053.jpg",
+        "title": "Kensington Monster",
+        "description": "A little monster I found prowling the rooftops. To create the off-putting blending, I abused noise removal.",
+        "title-cn": "Kensington 怪物",
+        "description-cn": "屋顶上的小魔鬼。来创出这种特效，我反复用了去噪，把照片模糊了。",
+        "data": "Nikon D90 | f/7.1 | 1/1000 sec | ISO 200 | 105 mm (1.5x crop body)"
+    },
+    {
+        "file": "image045.jpg",
+        "title": "Yu Yuan Caretaker",
+        "description": "Yu Yuan Garden Caretaker.",
+        "title-cn": "豫园清洁工",
+        "description-cn": "豫园清洁工。",
+        "data": "Nikon D90 | f/5.6 | 1/1000 sec | ISO 800 | 66 mm (1.5x crop body)"
+    },
+    {
+        "file": "image056.jpg",
+        "title": "Market Steed",
+        "description": "A noble steed, rearing its legs atop a mountain.",
+        "title-cn": "市场里的战马",
+        "description-cn": "山上的雄伟的战马。",
+        "data": "Nikon D90 | f/5 | 1/320 sec | ISO 200 | 34 mm (1.5x crop body)"
+    },
+    {
+        "file": "image081.jpg",
+        "title": "Starry Lights",
+        "description": "Toy seller illuminating the darkness.",
+        "title-cn": "儿童眼中的星星",
+        "description-cn": "玩具卖家照耀黑夜。",
+        "data": "Nikon D90 | f/5.6 | 1/60 sec | ISO 2000 | 105 mm (1.5x crop body)"
+    },
+    {
+        "file": "image006.jpg",
+        "title": "Bird",
+        "description": "Not gonna lie, birds are amazing models to work with. They ask no questions.",
+        "title-cn": "小鸟",
+        "description-cn": "老实说，鸟当模特还干的相当好。它们不问问题。",
+        "data": "Nikon D90 | f/5.6 | 1/60 sec | ISO 400 | 105 mm (1.5x crop body)"
+    },
+    {
+        "file": "image073.jpg",
+        "title": "Flowing Water",
+        "description": "It reminds me of the Beijing 2022 Winter Olympics Logo; brushstrokes on glassy water.",
+        "title-cn": "北京冬奥",
+        "description-cn": "Together for a Shared Future, 一起向未来！ 这个水流很想北京2022冬奥的标识。",
+        "data": "Nikon D90 | f/36 | 2 sec | ISO 400 | 105 mm (1.5x crop body)"
+    },
+    {
+        "file": "image066.jpg",
+        "title": "Submerged Rock",
+        "description": "A submerged formation of sedimentary rock.",
+        "title-cn": "淹没的石头",
+        "description-cn": "淹没的石头。",
+        "data": "GoPro Hero5 Black | f/2.8 | 1/440 sec | ISO 100 | 3 mm (5.6x crop body)"
+    },
+    {
+        "file": "image020.jpg",
+        "title": "1933 Slaughterhouse",
+        "description": "1933 Slaughterhouse. It took me forever to find this place; I couldn't read the (incorrect) destination I inputted in Chinese.",
+        "title-cn": "1933老场坊",
+        "description-cn": "1933老场坊。 我这个傻文盲, 用百度地图瞎选了第一个选项。没想到是错的 XD。最后走来走去，走了猴年马月才找到。",
+        "data": "Nikon D90 | f/10 | 1/200 sec | ISO 200 | 18 mm (1.5x crop body)"
+    },
+    {
+        "file": "image008.jpg",
+        "title": "The Expo Axis",
+        "description": "The Expo Axis. Amusingly, when I was eating lunch beneath the glass structure, a man came to me advertising an English class. Alas, he should have offered grade one Chinese XD.",
+        "title-cn": "世博轴",
+        "description-cn": "世博轴。 我在塔下吃中饭时,一个帅哥问我对他的英文补习班。可惜啊，他应该推荐一个小学一年级汉语班 XD。",
+        "data": "Nikon D90 | f/9 | 1/800 sec | ISO 500 | 50 mm (1.5x crop body)"
+    },
+    {
+        "file": "image047.jpg",
+        "title": "China Art Museum",
+        "description": "China Art Museum. Wonky aspect ratio, I know.",
+        "title-cn": "中华艺术宫",
+        "description-cn": "中华艺术宫。 这个照片放在最后应为它的纵横比怪怪的。",
+        "data": "Nikon D90 | f/11 | 1/100 sec | ISO 500 | 18 mm (1.5x crop body)"
+    },
+    {
+        "file": "image005.jpg",
+        "title": "Fireworks",
+        "description": "In this, I see an eye gazing towards the heavens.",
+        "title-cn": "焰火",
+        "description-cn": "我看到一只向天空看往的眼睛。",
+        "data": "Nikon D90 | f/11 | 6 sec | ISO 200 | 28 mm (1.5x crop body)"
+    },
+    {
+        "file": "image019.jpg",
+        "title": "Pearson Airport",
+        "description": "Baggage carts at Toronto Pearson Airport. Rain makes colours contrast more. So does Photoshop.",
+        "title-cn": "皮尔逊机场",
+        "description-cn": "多伦多皮尔逊机场的行李车。 雨使颜色对比更加强烈。 Photoshop 也是如此。",
+        "data": "Nikon D90 | f/6.3 | 1/320 sec | ISO 500 | 62 mm (1.5x crop body)"
+    },
+    {
+        "file": "image022.jpg",
+        "title": "Blue Mountain",
+        "description": "Blue Mountain. I swear the snowbanks were taller when I was young. Or maybe I was just really short.",
+        "title-cn": "蓝山",
+        "description-cn": "蓝山。 我真么记得小时候时，雪堆好高啊。。。也可能我那时就是很矮。",
+        "data": "Nikon D90 | f/14 | 1/400 sec | ISO 500 | 105 mm (1.5x crop body)"
+    },
+    {
+        "file": "image058.jpg",
+        "title": "Just Chilling",
+        "description": "I was taking a portrait (of a cyclist), when the guy asked for my photo. I had originally ignored earlier, but since he insisted, I took his photo. He didn't want anyone else in it though. Oops.",
+        "title-cn": "Just Chilling",
+        "description-cn": "我拍路过的骑自行车人时，他突然问我能不能给他拍张照。 本来我没理他，但因为被他强迫，我最终拍了一张。他不想让另些人陪他在照片里。。。oops。",
+        "data": "Nikon D90 | f/8 | 1/160 sec | ISO 200 | 52 mm (1.5x crop body)"
+    },
+    {
+        "file": "image055.jpg",
+        "title": "Road to Distant Lands",
+        "description": "Is this not the path we chose?",
+        "title-cn": "向远方的道路",
+        "description-cn": "这不就是我们理想中的道路吗？",
+        "data": "Nikon D90 | f/18 | 1/320 sec | ISO 200 | 34 mm (1.5x crop body)"
+    },
+    {
+        "file": "image074.jpg",
+        "title": "FengHuang",
+        "description": "Fenghuang gazing upon Shanghai.",
+        "title-cn": "凤凰",
+        "description-cn": "看望上海的凤凰。",
+        "data": "Nikon D90 | f/9 | 1/4000 sec | ISO 800 | 85 mm (1.5x crop body)"
+    },
+    {
+        "file": "image029.jpg",
+        "title": "Yu Yuan Cat",
+        "description": "Clearly the cat was the main attraction at the Yu Yuan Garden. Note that I am not affiliated with the young girl. Or the cat.",
+        "title-cn": "豫园里的猫",
+        "description-cn": "豫园没拍成功，但是看起来像人都对这只猫有不少兴趣。肯能它就是主要景点。",
+        "data": "Nikon D90 | f/5.6 | 1/500 sec | ISO 800 | 85 mm (1.5x crop body)"
+    },
+    {
+        "file": "image031.jpg",
+        "title": "Bumble Bee",
+        "description": "Bumble bee on a flower. I took this photo at the Royal Botanical Gardens way back when I was starting out in photography.",
+        "title-cn": "熊蜂",
+        "description-cn": "花朵上的小熊蜂。这张照片是我刚开始摄影时拍的。",
+        "data": "Nikon D90 | f/5.6 | 1/60 sec | ISO 400 | 105 mm (1.5x crop body)"
+    },
+    {
+        "file": "image049.jpg",
+        "title": "The Denizens' Capes",
+        "description": "The denizens' capes fluttering in the warm summer breeze. They belong to a humble bunch who earnestly and diligently toil to uphold the foundations of society. Thusly, it is their modest tower that stands tallest and proudest amongst a skyline of glistening skyscrapers; as they are the pillar of Shanghai.",
+        "title-cn": "居民的披风",
+        "description-cn": "老百姓们的披风在夏日的微风摇曳。 它们属于一群谦逊的人们，那些天天在背景里勤奋地维护和维修社会正常运行的人。 无论岗位多么渺小，他们都是社会中不可或缺的人们。 所以他们普白的高塔在照片里矗立得最高，他们的身影有那么高耸，那么雄伟壮观。 这就是定(上)海神针。",
+        "data": "Nikon D90 | f/9 | 1/640 sec | ISO 200 | 42 mm (1.5x crop body)"
+    },
+    {
+        "file": "image023.jpg",
+        "title": "Lights",
+        "description": "Another fun photo born from the limitations of photographing in a classroom.",
+        "title-cn": "灯光",
+        "description-cn": "这又是一张在教室里拍的照片。",
+        "data": "Nikon D90 | f/5.6 | 1/80 sec | ISO 1250 | 105 mm (1.5x crop body)"
+    },
+    {
+        "file": "image034.jpg",
+        "title": "Trees",
+        "description": "Trees.",
+        "title-cn": "树林",
+        "description-cn": "树林。",
+        "data": "Nikon D90 | f/5 | 1/80 sec | ISO 800 | 18 mm (1.5x crop body)"
+    },
+    {
+        "file": "image052.jpg",
+        "title": "Pedal to the Metal",
+        "description": "A bike chain shaped bike rack.",
+        "title-cn": "Pedal to the Metal",
+        "description-cn": "一个自行车链子模型的锁车架。",
+        "data": "Nikon D90 | f/11 | 1/250 sec | ISO 200 | 75 mm (1.5x crop body)"
+    },
+    {
+        "file": "image015.jpg",
+        "title": "Beer Bottle",
+        "description": "This one was from my photography club. I brought in some props and some Chistmas lights, and we all had some fun. Someone decided to flip the bottle (still filled with water) over, and that's how I got this photo.",
+        "title-cn": "啤酒瓶",
+        "description-cn": "这是在我组织的摄影俱乐部拍的。我带了一些圣诞节灯，来让人练习练习。 一个小伙子把啤酒瓶翻身了一下（里面还满满这水），这就是这个照片的来源。",
+        "data": "Nikon D90 | f/5.6 | 1/30 sec | ISO 1000 | 105 mm (1.5x crop body)"
+    },
+    {
+        "file": "image032.jpg",
+        "title": "Shanghai World Expo Museum",
+        "description": "Shanghai World Expo Museum. It is a shame I had only a small second to take this one.",
+        "title-cn": "世博会博物馆",
+        "description-cn": "世博会博物馆。可惜这个照片拍的有点急忙忙的。",
+        "data": "Nikon D90 | f/7.1 | 1/500 sec | ISO 500 | 25 mm (1.5x crop body)"
+    },
+    {
+        "file": "image067.jpg",
+        "title": "Waterfall",
+        "description": "A churning, frothy waterfall. I think I finally found a use for my GoPro XD.",
+        "title-cn": "瀑布",
+        "description-cn": "奔腾的瀑布，惊涛澎湃，冲向前方。我终于给我的GoPro找出用处了。",
+        "data": "GoPro Hero5 Black | f/2.8 | 1/1300 sec | ISO 100 | 3 mm (5.6x crop body)"
+    },
+    {
+        "file": "image012.jpg",
+        "title": "Fireworks",
+        "description": "Fireworks! Looks like lightning (probably because I bumped into the tripod).",
+        "title-cn": "焰火",
+        "description-cn": "焰火! 看起来像闪电 (我可能碰到三脚架的了)。",
+        "data": "Nikon D90 | f/9 | 8 sec | ISO 200 | 30 mm (1.5x crop body)"
+    },
+    {
+        "file": "image051.jpg",
+        "title": "UofT Bike Rack",
+        "description": "Forgive me, Mr. Goose.",
+        "title-cn": "多大的自行车架",
+        "description-cn": "求鹅先生绕我。",
+        "data": "Nikon D90 | f/11 | 1/250 sec | ISO 200 | 105 mm (1.5x crop body)"
+    },
+    {
+        "file": "image068.jpg",
+        "title": "Waterfall",
+        "description": "Wow I am indecisive with these; one more waterfall photo for y'all.",
+        "title-cn": "瀑布",
+        "description-cn": "唉，我真优柔寡断。给你们再发一张瀑布的照片。",
+        "data": "GoPro Hero5 Black | f/2.8 | 1/2500 sec | ISO 100 | 3 mm (5.6x crop body)"
+    },
+    {
+        "file": "image060.jpg",
+        "title": "Xin Tian Di Alley",
+        "description": "A narrow alley in Xin Tian Di (新天地); a district of reconstituted traditional mid-19th century Shanghainese houses (石库门).",
+        "title-cn": "新天地小巷",
+        "description-cn": "新天地的石库门。",
+        "data": "Nikon D90 | f/8 | 1/200 sec | ISO 200 | 105 mm (1.5x crop body)"
+    },
+    {
+        "file": "image009.jpg",
+        "title": "Another Bird",
+        "description": "I told you, birds make excellent models. They're far more cooperative than humans. Quite a bit more patient too.",
+        "title-cn": "小鸟",
+        "description-cn": "我说对了吧，小鸟很配合我也有耐心，跟人比起来优秀多了。",
+        "data": "Nikon D90 | f/5.6 | 1/60 sec | ISO 400 | 105 mm (1.5x crop body)"
+    },
+    {
+        "file": "image042.jpg",
+        "title": "Old Bicycle",
+        "description": "My loyal steed, braving the lawless back alleys of Shanghai.",
+        "title-cn": "老自行车",
+        "description-cn": "我忠诚的骏马，勇敢的陪我探险上海的胡同。",
+        "data": "Nikon D90 | f/1.8 | 1/1000 sec | ISO 800 | 35 mm (1.5x crop body)"
+    },
+    {
+        "file": "image079.jpg",
+        "title": "Worker's Houses",
+        "description": "Temporary housing for construction workers.",
+        "title-cn": "工人的房屋",
+        "description-cn": "建筑工人的临时房屋。",
+        "data": "Nikon D90 | f/9 | 1/640 sec | ISO 500 | 105 mm (1.5x crop body)"
+    },
+    {
+        "file": "image018.jpg",
+        "title": "Shanghai World Expo Museum",
+        "description": "Shanghai World Expo Museum. I didn't get much time to take photos there, but I'll one day return to this crystal edifice.",
+        "title-cn": "世博会博物馆",
+        "description-cn": "上海世博会博物馆。 可惜我没呆在那儿太长，一天一定要回去好好拍拍照。",
+        "data": "Nikon D90 | f/7.1 | 1/200 sec | ISO 500 | 18 mm (1.5x crop body)"
+    },
+    {
+        "file": "image078.jpg",
+        "title": "Break Time",
+        "description": "Break Time.",
+        "title-cn": "休息时间",
+        "description-cn": "休息时间。",
+        "data": "Nikon D90 | f/8 | 1/640 sec | ISO 200 | 105 mm (1.5x crop body)"
+    },
+    {
+        "file": "image077.jpg",
+        "title": "Gardiner Expressway",
+        "description": "The Gardiner Expressway; geometric mess of concrete and rust.",
+        "title-cn": "高架",
+        "description-cn": "锈碎的水泥镜框。",
+        "data": "Nikon D90 | f/10 | 1/500 sec | ISO 200 | 105 mm (1.5x crop body)"
+    },
+    {
+        "file": "image021.jpg",
+        "title": "Skyline",
+        "description": "An empty bit of skyline.",
+        "title-cn": "天际线",
+        "description-cn": "外滩附近的天际线。",
+        "data": "Nikon D90 | f/13 | 1/640 sec | ISO 500 | 34 mm (1.5x crop body)"
+    },
+    {
+        "file": "image080.jpg",
+        "title": "Silver (With Attitude)",
+        "description": "There's that awkward moment where you want to ask for their consent but they're trying to ignore you XD.",
+        "title-cn": "Silver (With Attitude)",
+        "description-cn": "好尴尬呀，我想问可不可以拍他们的照片，但老板装我不存在 XD。",
+        "data": "Nikon D90 | f/7.1 | 1/250 sec | ISO 200 | 35 mm (1.5x crop body)"
+    },
+    {
+        "file": "image062.jpg",
+        "title": "Dilapidated Motel",
+        "description": "Niagara sucks; not only has one of nature's crown jewels been defifiled, the imprints of man are dilapidated and rotten; the lowest of lows.",
+        "title-cn": "破旧不堪的旅馆",
+        "description-cn": "唉，尼亚加拉真难看，每秒自然风景之一，尼亚加拉大瀑布被人类最低级最 粗鲁的创物侮辱了。真可悲。",
+        "data": "Nikon D90 | f/13 | 1/125 sec | ISO 200 | 105 mm (1.5x crop body)"
+    },
+    {
+        "file": "image075.jpg",
+        "title": "Fish Feeding",
+        "description": "Feeding fish; what a popular girl she is.",
+        "title-cn": "喂鱼",
+        "description-cn": "喂鱼; 哇这个女孩儿多么受欢迎。",
+        "data": "Nikon D90 | f/5 | 1/400 sec | ISO 800 | 58 mm (1.5x crop body)"
+    },
+    {
+        "file": "image076.jpg",
+        "title": "Scaffolding",
+        "description": "The outershell, the framework, for something new to come.",
+        "title-cn": "鹰架",
+        "description-cn": "外壳，框架，支撑未来所有的创建。",
+        "data": "Nikon D90 | f/7.1 | 1/1000 sec | ISO 200 | 48 mm (1.5x crop body)"
+    },
+    {
+        "file": "image033.jpg",
+        "title": "Industrial Complex",
+        "description": "An industrial complex.",
+        "title-cn": "工业园区",
+        "description-cn": "一个工业园区（不太清楚）。",
+        "data": "Nikon D90 | f/11 | 1/1600 sec | ISO 500 | 105 mm (1.5x crop body)"
+    },
+    {
+        "file": "image059.jpg",
+        "title": "Construction Site",
+        "description": "Under construction or abandoned?",
+        "title-cn": "工地",
+        "description-cn": "正在建造还是已经被抛弃了呢？",
+        "data": "Nikon D90 | f/7.1 | 1/500 sec | ISO 200 | 105 mm (1.5x crop body)"
+    },
+    {
+        "file": "image026.jpg",
+        "title": "Shanghai Skyscrapers",
+        "description": "Shanghai Tower. It's kind of awesome how all three skyscrapers are in this photo.",
+        "title-cn": "上海大厦",
+        "description-cn": "上海中心大厦。这一张照片拍到上海三个最大的高楼大厦",
+        "data": "Nikon D90 | f/13 | 1/100 sec | ISO 500 | 18 mm (1.5x crop body)"
+    },
+    {
+        "file": "image054.jpg",
+        "title": "Mirrored Reflections",
+        "description": "Glassy reflections patterned by a skyscraper.",
+        "title-cn": "玻璃反映",
+        "description-cn": "高楼的多多反射。",
+        "data": "Nikon D90 | f/10 | 1/125 sec | ISO 200 | 105 mm (1.5x crop body)"
+    },
+    {
+        "file": "image024.jpg",
+        "title": "Reflection of Shanghai Tower",
+        "description": "Reflection of the Shanghai Tower; it's like a stained glass mosaic.",
+        "title-cn": "上海中心大厦的倒影",
+        "description-cn": "上海中心大厦的倒影；就像一个彩色玻璃马赛克。",
+        "data": "Nikon D90 | f/10 | 1/1600 sec | ISO 500 | 50 mm (1.5x crop body)"
+    },
+    {
+        "file": "image061.jpg",
+        "title": "Toronto Skyline",
+        "description": "Toronto skyline seen from Tommy Thompson Park.",
+        "title-cn": "伦多天际线",
+        "description-cn": "多伦多的夜间天际线。",
+        "data": "Nikon D90 | f/36 | 10 sec | ISO 200 | 105 mm (1.5x crop body)"
+    },
+    {
+        "file": "image037.jpg",
+        "title": "Bird",
+        "description": "See, the bird is a nice subject. It's a shame my camera bugged out, and failed to capture much colour.",
+        "title-cn": "小鸟",
+        "description-cn": "看，就像我说的，鸟当模特还真不错。可惜我照相机突然有了故障，颜色少了不少。",
+        "data": "Nikon D90 | f/5.6 | 1/60 sec | ISO 800 | 105 mm (1.5x crop body)"
+    },
+    {
+        "file": "image065.jpg",
+        "title": "Behind the Falls",
+        "description": "A cave behind the Niagara Falls.",
+        "title-cn": "花果山水帘洞",
+        "description-cn": "尼亚加拉瀑布后的水帘洞。",
+        "data": "Nikon D90 | f/9 | 1/200 sec | ISO 640 | 66 mm (1.5x crop body)"
+    },
+    {
+        "file": "image027.jpg",
+        "title": "Shanghai Tower",
+        "description": "Yup, another photo of the Shanghai Tower. Blame my non-existent travel budget.",
+        "title-cn": "上海中心大厦",
+        "description-cn": "对，又是一个上海中心大厦的照片。没钱来旅游 ToT。",
+        "data": "Nikon D90 | f/13 | 1/400 sec | ISO 500 | 90 mm (1.5x crop body)"
+    },
+    {
+        "file": "image030.jpg",
+        "title": "Street Light Trails",
+        "description": "I spent a solid half hour twirling around at midnight, taking photos of streetlights.",
+        "title-cn": "路灯丝绸",
+        "description-cn": "我花了一整半小时在夜晚中旋转，拍路灯。",
+        "data": "Nikon D90 | f/5.6 | 0.6 sec | ISO 500 | 85 mm (1.5x crop body)"
+    },
+    {
+        "file": "image048.jpg",
+        "title": "Super Brand Mall",
+        "description": "Super Brand Mall.",
+        "title-cn": "正大广场",
+        "description-cn": "正大广场。",
+        "data": "Nikon D90 | f/9 | 1/80 sec | ISO 500 | 18 mm (1.5x crop body)"
     }
 ]

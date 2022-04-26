@@ -14,6 +14,33 @@
 		<link rel="stylesheet" href="assets/css/lightbox.min.css" />
 		<script src="assets/js/lightbox-plus-jquery.min.js"></script>
 		<link rel="shortcut icon" type="image/x-icon" href="favicon.ico?" />
+		<script>
+			String.format = function() {
+				var s = arguments[0];
+				for (var i = 0; i < arguments.length - 1; i++) {
+					var reg = new RegExp("\\{" + i + "\\}", "gm");
+					s = s.replace(reg, arguments[i + 1]);
+				}
+   
+				return s;
+			};
+   
+			console.log("Loading photos from gallery.")
+			// Load from gallery
+			var photoTemplate = '<article class="item"> ' +
+								'<a href="gallery/fullsize/{0}" data-lightbox="gallery" data-title="{2} <br> {3}"' +
+								'class="image fit"><img src="gallery/thumbnails/{0}" width="420px" height="auto" loading="lazy" alt="{1}" /></a>' +
+								'<header><h3>{1}</h3></header>' +
+								'</article>';
+			$.getJSON('gallery.json', function(gallery) {
+				console.log("There are " + gallery.length + " photos to load.")
+				$.each(gallery, function(i, metadata) {
+					$('.gallery').append(
+						String.format(photoTemplate, metadata['file'], metadata['title'], metadata['description'], metadata['data']))
+				});
+				console.log("Photos loaded.")
+			});
+		   </script>
 	</head>
 	<body class="is-preload">
 
@@ -48,6 +75,7 @@
 							<li><a href="https://github.com/CanadianCrafter" target="_blank" rel="noopener noreferrer" class="icon brands fa-github"><span class="label">Github</span></a></li>
 							<li><a href="https://www.linkedin.com/in/bryan-wang-7a765820b/" target="_blank" rel="noopener noreferrer" class="icon brands fa-linkedin"><span class="label">Linkedin</span></a></li>
 							<li><a href="mailto:b397wang@uwaterloo.ca" class="icon solid fa-envelope"><span class="label">Email</span></a></li>
+							<li><a href="https://canadiancrafter.github.io/images/WeChatQRCode.jpg" target="_blank" rel="noopener noreferrer" data-lightbox="gallery" class="icon brands fa-weixin"><span class="label">Weixin</span></a></li>
 							<li><a href="https://www.instagram.com/bryanwang2003/" target="_blank" rel="noopener noreferrer" class="icon brands fa-instagram"><span class="label">Instagram</span></a></li>
 							<li><a href="photography-cn.html" class="fas fa-language"><span class="label"></span></a></li>
 							<!-- <li><a href="#" class="icon brands fa-weixin"><span class="label">Weixin</span></a></li> -->
@@ -104,326 +132,9 @@
 							Click on the photos to see the photo's properties and description.
 						</p>
 						<div class="gallery">
-							<div class="row">
-								<div class="col-4 col-12-mobile">
-									<article class="item">
-										<a 
-											href="gallery/fullsize/image001.jpg" 
-											data-lightbox="gallery" 
-											data-title="The Shanghai Oriental Sports Center. <br>
-											Nikon D90 | f/25 | 2.5 sec | ISO 100 | 24 mm (1.5x crop body)"
-											class="image fit">
-											<img src="gallery/thumbnails/image001.jpg" 
-											width="420px" height="auto" loading="lazy"
-											alt="Shanghai Oriental Sports Center" />
-										</a>
-										 <header>
-											<h3>Shanghai Oriental Sports Center</h3>
-										</header>
-									</article>
-									<article class="item">
-										<a 
-											href="gallery/fullsize/image004.jpg" 
-											data-lightbox="gallery" 
-											data-title="Wu Jiao Chang (an intersection of five roads). <br>
-											Nikon D90 | f/7.1 | 30 sec | ISO 200 | 18 mm (1.5x crop body)"
-											class="image fit">
-											<img src="gallery/thumbnails/image004.jpg" 
-											width="420px" height="auto" loading="lazy"
-											alt="Wu Jiao Chang" />
-										</a>
-										 <header>
-											<h3>Wu Jiao Chang</h3>
-										</header>
-									</article>
-									<article class="item">
-										<a 
-											href="gallery/fullsize/image007.jpg" 
-											data-lightbox="gallery" 
-											data-title="Construction workers at the Shanghai Oriental Sports Center. <br>
-											Nikon D90 | f/9 | 1/1000 sec | ISO 500 | 105 mm (1.5x crop body)"
-											class="image fit">
-											<img src="gallery/thumbnails/image007.jpg" 
-											width="420px" height="auto" loading="lazy"
-											alt="Construction Workers" />
-										</a>
-										 <header>
-											<h3>Construction Workers</h3>
-										</header>
-									</article>
-									<article class="item">
-										<a 
-											href="gallery/fullsize/image069.jpg" 
-											data-lightbox="gallery" 
-											data-title="I'm quite pleased with this one, as it imitates the impressionist paintings of old. <br>
-											GoPro Hero5 Black | f/2.8 | 1/3000 sec | ISO 100 | 3 mm (5.6x crop body)"
-											class="image fit">
-											<img src="gallery/thumbnails/image069.jpg" 
-											width="420px" height="auto" loading="lazy"
-											alt="Waterfall" />
-										</a>
-										 <header>
-											<h3>Waterfall</h3>
-										</header>
-									</article>
-									<article class="item">
-										<a 
-											href="gallery/fullsize/image011.jpg" 
-											data-lightbox="gallery" 
-											data-title="I was biking down Highway 48 when I greeted a couple of young photographers taking photos of haybales. 
-											An hour later, I returned with my own camera.<br>
-											Nikon D90 | f/5.6 | 2 sec | ISO 1000 | 85 mm (1.5x crop body)"
-											class="image fit">
-											<img src="gallery/thumbnails/image011.jpg" 
-											width="420px" height="auto" loading="lazy"
-											alt="Hay Bale" />
-										</a>
-										 <header>
-											<h3>Hay Bale</h3>
-										</header>
-									</article>
-									<article class="item">
-										<a 
-											href="gallery/fullsize/image016.jpg" 
-											data-lightbox="gallery" 
-											data-title="An alley I discovered while wandering the streets of Shanghai. It's shocking how quickly the city develops. <br>
-											Nikon D90 | f/9 | 1/500 sec | ISO 200 | 92 mm (1.5x crop body)"
-											class="image fit">
-											<img src="gallery/thumbnails/image016.jpg" 
-											width="420px" height="auto" loading="lazy"
-											alt="Shanghai Alley" />
-										</a>
-										 <header>
-											<h3>Shanghai Alley</h3>
-										</header>
-									</article>
-															
-									
-								</div>
-								<div class="col-4 col-12-mobile">
-									<article class="item">
-										<a 
-											href="gallery/fullsize/image003.jpg" 
-											data-lightbox="gallery" 
-											data-title="International animals conforming to Canadian culture. <br>
-											Nikon D90 | f/5.6 | 1/80 sec | ISO 1250 | 105 mm (1.5x crop body)"
-											class="image fit">
-											<img src="gallery/thumbnails/image003.jpg" 
-											width="420px" height="auto" loading="lazy"
-											alt="Orangutan" />
-										</a>
-										 <header>
-											<h3>Orangutan</h3>
-										</header>
-									</article>
-									<article class="item">
-										<a 
-											href="gallery/fullsize/image070.jpg" 
-											data-lightbox="gallery" 
-											data-title="The neighbourhood park where I lived in Shanghai; 
-											aged and weathered, not so different from my grandparents. 
-											This is but a faded and yellowing memory <br>
-											Nikon D90 | f/5.6 | 1/60 sec | ISO 640 | 35 mm (1.5x crop body)"
-											class="image fit">
-											<img src="gallery/thumbnails/image070.jpg" 
-											width="420px" height="auto" loading="lazy"
-											alt="Aged Memory" />
-										</a>
-										 <header>
-											<h3>Aged Memory</h3>
-										</header>
-									</article>
-									<article class="item">
-										<a 
-											href="gallery/fullsize/image072.jpg" 
-											data-lightbox="gallery" 
-											data-title="Blue Heron amidst turbulent skies. <br>
-											Nikon D90 | f/36 | 4/5 sec | ISO 200 | 105 mm (1.5x crop body)"
-											class="image fit">
-											<img src="gallery/thumbnails/image072.jpg" 
-											width="420px" height="auto" loading="lazy"
-											alt="Blue Heron" />
-										</a>
-										 <header>
-											<h3>Blue Heron</h3>
-										</header>
-									</article>
-									<article class="item">
-										<a 
-											href="gallery/fullsize/image063.jpg" 
-											data-lightbox="gallery" 
-											data-title="Romantics who neither find love nor death, become Byronic. <br>
-											Nikon D90 | f/5.6 | 1/160 sec | ISO 200 | 105 mm (1.5x crop body)"
-											class="image fit">
-											<img src="gallery/thumbnails/image063.jpg" 
-											width="420px" height="auto" loading="lazy"
-											alt="Love Lock Bridge" />
-										</a>
-										 <header>
-											<h3>Love Lock Bridge</h3>
-										</header>
-									</article>
-									<article class="item">
-										<a 
-											href="gallery/fullsize/image013.jpg" 
-											data-lightbox="gallery" 
-											data-title="Shanghai Pearl Ring (changing focal lengths during a long exposure is fun). <br>
-											Nikon D90 | f/16 | 30 sec | ISO 500 | 18 mm (1.5x crop body)"
-											class="image fit">
-											<img src="gallery/thumbnails/image013.jpg" 
-											width="420px" height="auto" loading="lazy"
-											alt="Shanghai Pearl Ring" />
-										</a>
-										 <header>
-											<h3>Shanghai Pearl Ring</h3>
-										</header>
-									</article>	
-									<article class="item">
-										<a 
-											href="gallery/fullsize/image010.jpg" 
-											data-lightbox="gallery" 
-											data-title="Super Brand Mall. <br>
-											Nikon D90 | f/11 | 1/100 sec | ISO 500 | 18 mm (1.5x crop body)"
-											class="image fit">
-											<img src="gallery/thumbnails/image010.jpg" 
-											width="420px" height="auto" loading="lazy"
-											alt="Super Brand Mall" />
-										</a>
-										 <header>
-											<h3>Super Brand Mall</h3>
-										</header>
-									</article>
-									
-									
-								
-								</div>
-								
-								<div class="col-4 col-12-mobile">
-									<article class="item">
-										<a 
-											href="gallery/fullsize/image002.jpg" 
-											data-lightbox="gallery" 
-											data-title="The Shanghai Oriental Sports Center. Its lights alternate between blue and red; take a photo during the transition and you get purple! <br>
-											Nikon D90 | f/20 | 30 sec | ISO 100 | 26 mm (1.5x crop body)"
-											class="image fit">
-											<img src="gallery/thumbnails/image002.jpg" 
-											width="420px" height="auto" loading="lazy"
-											alt="Shanghai Oriental Sports Center" />
-										</a>
-										 <header>
-											<h3>Shanghai Oriental Sports Center</h3>
-										</header>
-									</article>
-									<article class="item">
-										<a 
-											href="gallery/fullsize/image071.jpg" 
-											data-lightbox="gallery" 
-											data-title="Painting a dream from memory. The leaves flow like brush strokes; 
-											the building shifting and hazy. Don't you see the flakes of paint flying like sparks? <br>
-											Nikon D90 | f/7 | 1/50 sec | ISO 640 | 35 mm (1.5x crop body)"
-											class="image fit">
-											<img src="gallery/thumbnails/image071.jpg" 
-											width="420px" height="auto" loading="lazy"
-											alt="Painting of the Past" />
-										</a>
-										 <header>
-											<h3>Painting of the Past</h3>
-										</header>
-									</article>	 	
-									<article class="item">
-										<a 
-											href="gallery/fullsize/image044.jpg" 
-											data-lightbox="gallery" 
-											data-title="What a long day it must have been. I imagine him tired but satisfied; eudaimonistic. 
-											And yeah, I went crazy on the edits with this one. <br>
-											Nikon D90 | f/9 | 1/3200 sec | ISO 500 | 105 mm (1.5x crop body)"
-											class="image fit">
-											<img src="gallery/thumbnails/image044.jpg" 
-											width="420px" height="auto" loading="lazy"
-											alt="Construction Worker" />
-										</a>
-										 <header>
-											<h3>Construction Worker</h3>
-										</header>
-									</article>
-									<article class="item">
-										<a 
-											href="gallery/fullsize/image025.jpg" 
-											data-lightbox="gallery" 
-											data-title="Sometimes we are insignificant to our creations, and that's awesome.  <br>
-											Nikon D90 | f/5.6 | 1/1000 sec | ISO 500 | 105 mm (1.5x crop body)"
-											class="image fit">
-											<img src="gallery/thumbnails/image025.jpg" 
-											width="420px" height="auto" loading="lazy"
-											alt="Construction Worker" />
-										</a>
-										 <header>
-											<h3>Construction Worker</h3>
-										</header>
-									</article>		
-									<article class="item">
-										<a 
-											href="gallery/fullsize/image028.jpg" 
-											data-lightbox="gallery" 
-											data-title="Wai Bai Du Bridge. Fun fact, it's the first all-steel bridge in China. <br>
-											Nikon D90 | f/13 | 2.5 sec | ISO 500 | 21 mm (1.5x crop body)"
-											class="image fit">
-											<img src="gallery/thumbnails/image028.jpg" 
-											width="420px" height="auto" loading="lazy"
-											alt="Wai Bai Du Bridge" />
-										</a>
-										 <header>
-											<h3>Wai Bai Du Bridge</h3>
-										</header>
-									</article>
-									<article class="item">
-										<a 
-											href="gallery/fullsize/image041.jpg" 
-											data-lightbox="gallery" 
-											data-title="The ferries of the Yangtze illuminating the Monument to the People's Heroes. <br>
-											Nikon D90 | f/11 | 30 sec | ISO 500 | 52 mm (1.5x crop body)"
-											class="image fit">
-											<img src="gallery/thumbnails/image041.jpg" 
-											width="420px" height="auto" loading="lazy"
-											alt="Monument to the People's Heroes" />
-										</a>
-										 <header>
-											<h3>Monument to the People's Heroes</h3>
-										</header>
-									</article>	
-									<article class="item">
-										<a 
-											href="gallery/fullsize/image057.jpg" 
-											data-lightbox="gallery" 
-											data-title="Cyclist below the Gardiner Expressway. I think this photograph properly captures the awkwardness
-											I put him in. Oops. <br>
-											Nikon D90 | f/8 | f/160 sec | ISO 200 | 105 mm (1.5x crop body)"
-											class="image fit">
-											<img src="gallery/thumbnails/image057.jpg" 
-											width="420px" height="auto" loading="lazy"
-											alt="Cyclist" />
-										</a>
-										 <header>
-											<h3>Cyclist</h3>
-										</header>
-									</article>		
-									
-								</div>
-							</div>
+							
 						</div>
 					</div>
-
-					<!-- Page -->
-
-					<footer>
-						<ul class="icons">
-							<!-- <li><a href="https://github.com/CanadianCrafter" rel="noopener noreferrer" class="fa fa-chevron-left"><span class="label"></span></a></li> -->
-							<li><a><span class="label"><u>1</u></span></a></li>
-							<li><a href="photography-2.html" rel="noopener noreferrer" ><span class="label">2</span></a></li>
-							<li><a href="photography-3.html" rel="noopener noreferrer" ><span class="label">3</span></a></li>
-							<li><a href="photography-2.html" rel="noopener noreferrer" class="fa fa-chevron-right"><span class="label"></span></a></li>
-						</ul>
-					</footer>
 				
 				</section>
 		
@@ -458,6 +169,8 @@
 			<script src="assets/js/breakpoints.min.js"></script>
 			<script src="assets/js/util.js"></script>
 			<script src="assets/js/main.js"></script>
+			<script src="assets/js/masonry.pkgd.min.js"></script>
+      		<script src="assets/js/imagesloaded.pkgd.min.js"></script>
 
 	</body>
 </html>
