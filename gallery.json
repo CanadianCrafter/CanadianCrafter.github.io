@@ -48,12 +48,12 @@
         "data": "Nikon D90 | f/5.6 | 1/60 sec | ISO 640 | 35 mm (1.5x crop body)"
     },
     {
-        "file": "image007.jpg",
-        "title": "Construction Workers",
-        "description": "Construction workers at the Shanghai Oriental Sports Center.",
-        "title-cn": "建筑工人们",
-        "description-cn": "上海东方体育中心上的建筑工人们。",
-        "data": "Nikon D90 | f/9 | 1/1000 sec | ISO 500 | 105 mm (1.5x crop body)"
+        "file": "image105.jpg",
+        "title": "Chilling at DC",
+        "description": "Chilling at DC after exams.",
+        "title-cn": "在DC闲着",
+        "description-cn": "期中考试后在滑铁卢DC。",
+        "data": "Nikon D90 | f/5.6 | 1/160 sec | ISO 800 | 105 mm (1.5x crop body)"
     },
     {
         "file": "image072.jpg",
@@ -70,6 +70,14 @@
         "title-cn": "建筑工人",
         "description-cn": "这可能是我最喜欢的照片，应为有点像我爱的画家 - Caspar David Friedrich。 单独一个人，站在一个旷阔的背景前，但是一点都没有孤独的感觉，而有点伟大。",
         "data": "Nikon D90 | f/9 | 1/3200 sec | ISO 500 | 105 mm (1.5x crop body)"
+    },
+    {
+        "file": "image007.jpg",
+        "title": "Construction Workers",
+        "description": "Construction workers at the Shanghai Oriental Sports Center.",
+        "title-cn": "建筑工人们",
+        "description-cn": "上海东方体育中心上的建筑工人们。",
+        "data": "Nikon D90 | f/9 | 1/1000 sec | ISO 500 | 105 mm (1.5x crop body)"
     },
     {
         "file": "image069.jpg",
