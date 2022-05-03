@@ -64,12 +64,12 @@
         "data": "Nikon D90 | f/5.6 | 1/160 sec | ISO 800 | 105 mm (1.5x crop body)"
     },
     {
-        "file": "image072.jpg",
-        "title": "Blue Heron",
-        "description": "Blue Heron amidst turbulent skies.",
-        "title-cn": "大蓝鹭",
-        "description-cn": "在丝绸云彩中飞舞的大蓝鹭。",
-        "data": "Nikon D90 | f/36 | 4/5 sec | ISO 200 | 105 mm (1.5x crop body)"
+        "file": "image107.jpg",
+        "title": "Cafe Europa",
+        "description": "Cafe Europa (Customer Entrance Only).",
+        "title-cn": "欧罗巴咖啡厅",
+        "description-cn": "欧罗巴咖啡厅（客户特定入口）。",
+        "data": "Nikon D90 | f/11 | 1/320 sec | ISO 800 | 48 mm (1.5x crop body)"
     },
     {
         "file": "image044.jpg",
@@ -78,6 +78,14 @@
         "title-cn": "建筑工人",
         "description-cn": "这可能是我最喜欢的照片，应为有点像我爱的画家 - Caspar David Friedrich。 单独一个人，站在一个旷阔的背景前，但是一点都没有孤独的感觉，而有点伟大。",
         "data": "Nikon D90 | f/9 | 1/3200 sec | ISO 500 | 105 mm (1.5x crop body)"
+    },
+    {
+        "file": "image072.jpg",
+        "title": "Blue Heron",
+        "description": "Blue Heron amidst turbulent skies.",
+        "title-cn": "大蓝鹭",
+        "description-cn": "在丝绸云彩中飞舞的大蓝鹭。",
+        "data": "Nikon D90 | f/36 | 4/5 sec | ISO 200 | 105 mm (1.5x crop body)"
     },
     {
         "file": "image007.jpg",
