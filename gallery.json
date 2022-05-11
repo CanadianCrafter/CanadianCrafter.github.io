@@ -48,6 +48,14 @@
         "data": "Nikon D90 | f/7 | 1/50 sec | ISO 640 | 35 mm (1.5x crop body)"
     },
     {
+        "file": "image092.jpg",
+        "title": "The Bund",
+        "description": "Rushing waves, flowing waves Thousand miles of the torrential river flows ceaselessly forever Washed away the worldly affairs Torrential mixing of the tidal currents.",
+        "title-cn": "上海滩",
+        "description-cn": "浪奔 浪流，万里滔滔江水永不休，淘尽了 世间事，混作滔滔一片潮流。",
+        "data": "Nikon D90 | f/7 | 1/50 sec | ISO 640 | 35 mm (1.5x crop body)"
+    },
+    {
         "file": "image070.jpg",
         "title": "Aged Memory",
         "description": "The neighbourhood park where I lived in Shanghai; aged and weathered, not so different from my grandparents. This is but a faded and yellowing memory",
@@ -128,6 +136,22 @@
         "data": "Nikon D90 | f/5.6 | 1/160 sec | ISO 200 | 105 mm (1.5x crop body)"
     },
     {
+        "file": "image028.jpg",
+        "title": "Wai Bai Du Bridge",
+        "description": "Wai Bai Du Bridge. Fun fact, it's the first all-steel bridge in China.",
+        "title-cn": "外白渡桥",
+        "description-cn": "外白渡桥。 有趣的事实：这是中国第一座全钢铁桥。",
+        "data": "Nikon D90 | f/13 | 2.5 sec | ISO 500 | 21 mm (1.5x crop body)"
+    },
+    {
+        "file": "image117.jpg",
+        "title": "Parisian Christmas",
+        "description": "Parisian Christmas (Parisian as in Paris, Ontario).",
+        "title-cn": "巴黎的圣诞节 （安大略的巴黎）",
+        "description-cn": "巴黎的圣诞节",
+        "data": "Nikon D90 | f/10 | 1/2500 sec | ISO 800 | 58 mm (1.5x crop body)"
+    },
+    {
         "file": "image011.jpg",
         "title": "Hay Bale",
         "description": "I was biking down Highway 48 when I greeted a couple of young photographers taking photos of haybales. An hour later, I returned with my own camera.",
@@ -142,14 +166,6 @@
         "title-cn": "陆家嘴",
         "description-cn": "陆家嘴 (长曝光时改焦距好好玩儿)。",
         "data": "Nikon D90 | f/16 | 30 sec | ISO 500 | 18 mm (1.5x crop body)"
-    },
-    {
-        "file": "image028.jpg",
-        "title": "Wai Bai Du Bridge",
-        "description": "Wai Bai Du Bridge. Fun fact, it's the first all-steel bridge in China.",
-        "title-cn": "外白渡桥",
-        "description-cn": "外白渡桥。 有趣的事实：这是中国第一座全钢铁桥。",
-        "data": "Nikon D90 | f/13 | 2.5 sec | ISO 500 | 21 mm (1.5x crop body)"
     },
     {
         "file": "image010.jpg",
@@ -240,6 +256,14 @@
         "data": "GoPro Hero5 Black | f/2.8 | 1/440 sec | ISO 100 | 3 mm (5.6x crop body)"
     },
     {
+        "file": "image108.jpg",
+        "title": "Honest Weight",
+        "description": "I wonder what they sell on Paris' Main Street? Honest Weight (Made in Canada).",
+        "title-cn": "Honest Weight",
+        "description-cn": "看看巴黎主街的商店都买什么？Honest Weight (Made in Canada)。",
+        "data": "Nikon D90 | f/11 | 1/320 sec | ISO 800 | 40 mm (1.5x crop body)"
+    },
+    {
         "file": "image020.jpg",
         "title": "1933 Slaughterhouse",
         "description": "1933 Slaughterhouse. It took me forever to find this place; I couldn't read the (incorrect) destination I inputted in Chinese.",
@@ -270,6 +294,14 @@
         "title-cn": "焰火",
         "description-cn": "我看到一只向天空看往的眼睛。",
         "data": "Nikon D90 | f/11 | 6 sec | ISO 200 | 28 mm (1.5x crop body)"
+    },
+    {
+        "file": "image100.jpg",
+        "title": "Ivory Combs",
+        "description": "Ivory Combs.",
+        "title-cn": "象牙梳",
+        "description-cn": "象牙梳。",
+        "data": "Nikon D90 | f/5.6 | 1/500 sec | ISO 800 | 50 mm (1.5x crop body)"
     },
     {
         "file": "image019.jpg",
