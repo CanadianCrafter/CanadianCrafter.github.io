@@ -26,7 +26,7 @@
     {
         "file": "image092.jpg",
         "title": "The Bund",
-        "description": "The Bund",
+        "description": "Rushing waves, flowing waves Thousand miles of the torrential river flows ceaselessly forever Washed away the worldly affairs Torrential mixing of the tidal currents.",
         "title-cn": "上海滩",
         "description-cn": "浪奔，浪流，萬里滔滔江水永不休，淘盡了，世間事，混作滔滔一片潮流",
         "data": "Nikon D90 | f/11 | 2.5 sec | ISO 500 | 18 mm (1.5x crop body)"
@@ -45,14 +45,6 @@
         "description": "Painting a dream from memory. The leaves flow like brush strokes; the building shifting and hazy. Don't you see the flakes of paint flying like sparks?",
         "title-cn": "时光画",
         "description-cn": "闭上眼睛怀念上海时，这就是我想象的景色。这张更像一幅画，一丝一丝笔触的柳叶， impressionist trees，smudged skies，scuffed paint. 就像是水上摸不到的倒影。 燃烧的回忆，短暂带来的温暖，多美妙啊！我希望我未来能继续走向这个方向。 我觉得要好好学拍照，就需要先从画家那里学。我对flashy的照片没兴趣。 艺术的意义是使人表出和分享自己心里说不出口的感情。 这就是：life seen through my viewfinder.",
-        "data": "Nikon D90 | f/7 | 1/50 sec | ISO 640 | 35 mm (1.5x crop body)"
-    },
-    {
-        "file": "image092.jpg",
-        "title": "The Bund",
-        "description": "Rushing waves, flowing waves Thousand miles of the torrential river flows ceaselessly forever Washed away the worldly affairs Torrential mixing of the tidal currents.",
-        "title-cn": "上海滩",
-        "description-cn": "浪奔 浪流，万里滔滔江水永不休，淘尽了 世间事，混作滔滔一片潮流。",
         "data": "Nikon D90 | f/7 | 1/50 sec | ISO 640 | 35 mm (1.5x crop body)"
     },
     {
@@ -118,6 +110,14 @@
         "title-cn": "瀑布",
         "description-cn": "我特别喜欢这张照片因为它有点像一幅impressionist画。重点不是记录景色，而是表出奔腾的瀑布的流动和力量。",
         "data": "GoPro Hero5 Black | f/2.8 | 1/3000 sec | ISO 100 | 3 mm (5.6x crop body)"
+    },
+    {
+        "file": "image104.jpg",
+        "title": "California Dreamin'",
+        "description": "Self portrait at the DC tunnel.",
+        "title-cn": "加州之梦",
+        "description-cn": "DC天桥的自拍。",
+        "data": "Nikon D90 | f/5 | 1/200 sec | ISO 800 | 52 mm (1.5x crop body)"
     },
     {
         "file": "image025.jpg",
