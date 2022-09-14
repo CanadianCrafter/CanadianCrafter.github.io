@@ -72,6 +72,14 @@
         "data": "Nikon D90 | f/11 | 1/320 sec | ISO 800 | 48 mm (1.5x crop body)"
     },
     {
+        "file": "image144.jpg",
+        "title": " Misty Mountains (One)",
+        "description": "One of my goals as a photographer is to learn from the great artists of old. This is my ode to Chinese inkwash painting. ",
+        "title-cn": "云深不知处 （一）",
+        "description-cn": "当一位摄影师，模仿画家是我的目标之一。让这张当我对中国的水墨画的赞歌！当然，终点还远的呢。",
+        "data": "Nikon D90 | f/18 | 1/250 sec | ISO 200 | 90 mm (1.5x crop body)"
+    },
+    {
         "file": "image044.jpg",
         "title": "Construction Worker",
         "description": "What a long day it must have been. I imagine him tired but satisfied; eudaimonistic. And yeah, I went crazy on the edits with this one.",
@@ -120,6 +128,14 @@
         "data": "Nikon D90 | f/5 | 1/200 sec | ISO 800 | 52 mm (1.5x crop body)"
     },
     {
+        "file": "image167.jpg",
+        "title": "Shannon Falls",
+        "description": "Immense mountains and precipices overhung me on every side, the crashing sound of a river raging among the rocks, and the dashing of the waterfall before me bellowed in a thousand different voices, proclaiming its almighty magnificence and power.",
+        "title-cn": "香农瀑布",
+        "description-cn": "四周峰林叠翠、山峦起伏，大河在乱石之间奔腾而过，发出隆隆水声，瀑布又飞流而下，发出的声音更加震耳欲聋，向世人显示其力量。",
+        "data": "Nikon D90 | f/29 | 1/2 sec | ISO 100 | 32 mm (1.5x crop body)"
+    },
+    {
         "file": "image025.jpg",
         "title": "Construction Worker",
         "description": "Sometimes we are insignificant to our creations, and that's awesome.",
@@ -142,6 +158,14 @@
         "title-cn": "外白渡桥",
         "description-cn": "外白渡桥。 有趣的事实：这是中国第一座全钢铁桥。",
         "data": "Nikon D90 | f/13 | 2.5 sec | ISO 500 | 21 mm (1.5x crop body)"
+    },
+    {
+        "file": "image154.jpg",
+        "title": "B735 (Boeing 737-500) C-GANH",
+        "description": "B735 (Boeing 737-500) C-GANH bursting through Vancouver's early morning fog. What a rare find of a plane.",
+        "title-cn": "B735 (Boeing 737-500) C-GANH",
+        "description-cn": "B735 (Boeing 737-500) C-GANH 冲破温哥华的晨雾。这种飞机还真少见。",
+        "data": "Nikon D90 | f/10 | 1/200 sec | ISO 100 | 105 mm (1.5x crop body)"
     },
     {
         "file": "image117.jpg",
@@ -224,6 +248,14 @@
         "data": "Nikon D90 | f/5 | 1/320 sec | ISO 200 | 34 mm (1.5x crop body)"
     },
     {
+        "file": "image192.jpg",
+        "title": "Peak 2 Peak",
+        "description": "Off to chase another mountain's peak.",
+        "title-cn": "Peak 2 Peak",
+        "description-cn": "向往另个山顶奔了。",
+        "data": "Nikon D90 | f/8 | 1/5 sec | ISO 100 | 21 mm (1.5x crop body)"
+    },
+    {
         "file": "image081.jpg",
         "title": "Starry Lights",
         "description": "Toy seller illuminating the darkness.",
@@ -302,6 +334,14 @@
         "title-cn": "象牙梳",
         "description-cn": "象牙梳。",
         "data": "Nikon D90 | f/5.6 | 1/500 sec | ISO 800 | 50 mm (1.5x crop body)"
+    },
+    {
+        "file": "image191.jpg",
+        "title": "Cobweb Under The Light",
+        "description": "DC past midnight (what a familiar sight).",
+        "title-cn": "等下的蜘蛛网",
+        "description-cn": "半夜三点的DC图书馆（真熟悉呀）。",
+        "data": "Nikon D90 | f/5.6 | 1/60 sec | ISO 2000 | 105 mm (1.5x crop body)"
     },
     {
         "file": "image019.jpg",
@@ -622,5 +662,13 @@
         "title-cn": "正大广场",
         "description-cn": "正大广场。",
         "data": "Nikon D90 | f/9 | 1/80 sec | ISO 500 | 18 mm (1.5x crop body)"
+    },
+    {
+        "file": "image172.jpg",
+        "title": "Lao Wai",
+        "description": "Lmao Wai.",
+        "title-cn": "老外",
+        "description-cn": "啊哈哈哈这位好家伙真让我笑死了。",
+        "data": "Nikon D90 | f/5.6 | 1/250 sec | ISO 200 | 42 mm (1.5x crop body)"
     }
 ]
