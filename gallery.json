@@ -64,14 +64,6 @@
         "data": "Nikon D90 | f/5.6 | 1/160 sec | ISO 800 | 105 mm (1.5x crop body)"
     },
     {
-        "file": "image107.jpg",
-        "title": "Cafe Europa",
-        "description": "Cafe Europa (Customer Entrance Only).",
-        "title-cn": "欧罗巴咖啡厅",
-        "description-cn": "欧罗巴咖啡厅（客户特定入口）。",
-        "data": "Nikon D90 | f/11 | 1/320 sec | ISO 800 | 48 mm (1.5x crop body)"
-    },
-    {
         "file": "image144.jpg",
         "title": " Misty Mountains (One)",
         "description": "One of my goals as a photographer is to learn from the great artists of old. This is my ode to Chinese inkwash painting. ",
@@ -80,13 +72,14 @@
         "data": "Nikon D90 | f/18 | 1/250 sec | ISO 200 | 90 mm (1.5x crop body)"
     },
     {
-        "file": "image044.jpg",
-        "title": "Construction Worker",
-        "description": "What a long day it must have been. I imagine him tired but satisfied; eudaimonistic. And yeah, I went crazy on the edits with this one.",
-        "title-cn": "建筑工人",
-        "description-cn": "这可能是我最喜欢的照片，应为有点像我爱的画家 - Caspar David Friedrich。 单独一个人，站在一个旷阔的背景前，但是一点都没有孤独的感觉，而有点伟大。",
-        "data": "Nikon D90 | f/9 | 1/3200 sec | ISO 500 | 105 mm (1.5x crop body)"
+        "file": "image184.jpg",
+        "title": "Midnight surrealism.",
+        "description": "Thank you to Lindsay and Jerry for modelling!",
+        "title-cn": "神奇的夜晚",
+        "description-cn": "谢谢 Lindsay 和 Jerry 帮我模特!",
+        "data": "Nikon D90 | f/5.6 | 1/50 sec | ISO 2000 | 90 mm (1.5x crop body)"
     },
+
     {
         "file": "image072.jpg",
         "title": "Blue Heron",
@@ -104,12 +97,12 @@
         "data": "Nikon D90 | f/5.6 | 1/160 sec | ISO 800 | 105 mm (1.5x crop body)"
     },
     {
-        "file": "image007.jpg",
-        "title": "Construction Workers",
-        "description": "Construction workers at the Shanghai Oriental Sports Center.",
-        "title-cn": "建筑工人们",
-        "description-cn": "上海东方体育中心上的建筑工人们。",
-        "data": "Nikon D90 | f/9 | 1/1000 sec | ISO 500 | 105 mm (1.5x crop body)"
+        "file": "image044.jpg",
+        "title": "Construction Worker",
+        "description": "What a long day it must have been. I imagine him tired but satisfied; eudaimonistic. And yeah, I went crazy on the edits with this one.",
+        "title-cn": "建筑工人",
+        "description-cn": "这可能是我最喜欢的照片，应为有点像我爱的画家 - Caspar David Friedrich。 单独一个人，站在一个旷阔的背景前，但是一点都没有孤独的感觉，而有点伟大。",
+        "data": "Nikon D90 | f/9 | 1/3200 sec | ISO 500 | 105 mm (1.5x crop body)"
     },
     {
         "file": "image069.jpg",
@@ -118,6 +111,14 @@
         "title-cn": "瀑布",
         "description-cn": "我特别喜欢这张照片因为它有点像一幅impressionist画。重点不是记录景色，而是表出奔腾的瀑布的流动和力量。",
         "data": "GoPro Hero5 Black | f/2.8 | 1/3000 sec | ISO 100 | 3 mm (5.6x crop body)"
+    },
+    {
+        "file": "image107.jpg",
+        "title": "Cafe Europa",
+        "description": "Cafe Europa (Customer Entrance Only).",
+        "title-cn": "欧罗巴咖啡厅",
+        "description-cn": "欧罗巴咖啡厅（客户特定入口）。",
+        "data": "Nikon D90 | f/11 | 1/320 sec | ISO 800 | 48 mm (1.5x crop body)"
     },
     {
         "file": "image104.jpg",
@@ -134,6 +135,14 @@
         "title-cn": "香农瀑布",
         "description-cn": "四周峰林叠翠、山峦起伏，大河在乱石之间奔腾而过，发出隆隆水声，瀑布又飞流而下，发出的声音更加震耳欲聋，向世人显示其力量。",
         "data": "Nikon D90 | f/29 | 1/2 sec | ISO 100 | 32 mm (1.5x crop body)"
+    },
+    {
+        "file": "image007.jpg",
+        "title": "Construction Workers",
+        "description": "Construction workers at the Shanghai Oriental Sports Center.",
+        "title-cn": "建筑工人们",
+        "description-cn": "上海东方体育中心上的建筑工人们。",
+        "data": "Nikon D90 | f/9 | 1/1000 sec | ISO 500 | 105 mm (1.5x crop body)"
     },
     {
         "file": "image025.jpg",
@@ -328,12 +337,20 @@
         "data": "Nikon D90 | f/11 | 6 sec | ISO 200 | 28 mm (1.5x crop body)"
     },
     {
-        "file": "image100.jpg",
-        "title": "Ivory Combs",
-        "description": "Ivory Combs.",
-        "title-cn": "象牙梳",
-        "description-cn": "象牙梳。",
-        "data": "Nikon D90 | f/5.6 | 1/500 sec | ISO 800 | 50 mm (1.5x crop body)"
+        "file": "image170.jpg",
+        "title": "Past Present Future",
+        "description": "Retrograde emotion.",
+        "title-cn": "过去 当下 未来",
+        "description-cn": "逆行运动。",
+        "data": "Nikon D90 | f/5.6 | 1/100 sec | ISO 500 | 105 mm (1.5x crop body)"
+    },
+    {
+        "file": "image157.jpg",
+        "title": "Overpass",
+        "description": "de_overpass.",
+        "title-cn": "高架",
+        "description-cn": "de_overpass。",
+        "data": "Nikon D90 | f/8 | 1/60 sec | ISO 200 | 105 mm (1.5x crop body)"
     },
     {
         "file": "image191.jpg",
@@ -456,6 +473,14 @@
         "data": "Nikon D90 | f/7.1 | 1/500 sec | ISO 500 | 25 mm (1.5x crop body)"
     },
     {
+        "file": "image100.jpg",
+        "title": "Ivory Combs",
+        "description": "Ivory Combs.",
+        "title-cn": "象牙梳",
+        "description-cn": "象牙梳。",
+        "data": "Nikon D90 | f/5.6 | 1/500 sec | ISO 800 | 50 mm (1.5x crop body)"
+    },
+    {
         "file": "image067.jpg",
         "title": "Waterfall",
         "description": "A churning, frothy waterfall. I think I finally found a use for my GoPro XD.",
@@ -470,6 +495,14 @@
         "title-cn": "焰火",
         "description-cn": "焰火! 看起来像闪电 (我可能碰到三脚架的了)。",
         "data": "Nikon D90 | f/9 | 8 sec | ISO 200 | 30 mm (1.5x crop body)"
+    },
+    {
+        "file": "image190.jpg",
+        "title": "Chairs",
+        "description": "A stack of chairs.",
+        "title-cn": "椅子",
+        "description-cn": "一叠椅子。",
+        "data": "Nikon D90 | f/6.3 | 1/50 sec | ISO 1000 | 18 mm (1.5x crop body)"
     },
     {
         "file": "image051.jpg",
@@ -526,6 +559,14 @@
         "title-cn": "世博会博物馆",
         "description-cn": "上海世博会博物馆。 可惜我没呆在那儿太长，一天一定要回去好好拍拍照。",
         "data": "Nikon D90 | f/7.1 | 1/200 sec | ISO 500 | 18 mm (1.5x crop body)"
+    },
+    {
+        "file": "image176.jpg",
+        "title": "Lion Dance Performance",
+        "description": "Lion Dance at the Toronto Dragon Festival. Amazingly, one of the performers is a Cirque du Soleil member!",
+        "title-cn": "舞狮表演",
+        "description-cn": "多伦多龙文化节的舞狮表演。其中一位是个Cirque due Soleil的演员！",
+        "data": "Nikon D90 | f/5.6 | 1/125 sec | ISO 200 | 28 mm (1.5x crop body)"
     },
     {
         "file": "image078.jpg",
