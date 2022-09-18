@@ -73,7 +73,7 @@
     },
     {
         "file": "image184.jpg",
-        "title": "Midnight surrealism.",
+        "title": "Midnight Surrealism.",
         "description": "Thank you to Lindsay and Jerry for modelling!",
         "title-cn": "神奇的夜晚",
         "description-cn": "谢谢 Lindsay 和 Jerry 帮我模特!",
@@ -143,6 +143,14 @@
         "title-cn": "建筑工人们",
         "description-cn": "上海东方体育中心上的建筑工人们。",
         "data": "Nikon D90 | f/9 | 1/1000 sec | ISO 500 | 105 mm (1.5x crop body)"
+    },
+    {
+        "file": "image162.jpg",
+        "title": "Flying Through Lions Gate Bridge",
+        "description": "Seaplane flying through the Lions Gate Bridge.",
+        "title-cn": "飞过狮门大桥",
+        "description-cn": "一架水上飞机飞过狮子门大桥",
+        "data": "Nikon D90 | f/8 | 1/640 sec | ISO 200 | 90 mm (1.5x crop body)"
     },
     {
         "file": "image025.jpg",
@@ -665,12 +673,20 @@
         "data": "Nikon D90 | f/10 | 1/1600 sec | ISO 500 | 50 mm (1.5x crop body)"
     },
     {
+        "file": "image123.jpg",
+        "title": "Granite Reflection",
+        "description": "Fountain mirrored in granite.",
+        "title-cn": "花岗岩倒影",
+        "description-cn": "喷泉在花岗岩中的倒影。",
+        "data": "Nikon D90 | f/10 | 1/1600 sec | ISO 500 | 50 mm (1.5x crop body)"
+    },
+    {
         "file": "image061.jpg",
         "title": "Toronto Skyline",
         "description": "Toronto skyline seen from Tommy Thompson Park.",
         "title-cn": "伦多天际线",
         "description-cn": "多伦多的夜间天际线。",
-        "data": "Nikon D90 | f/36 | 10 sec | ISO 200 | 105 mm (1.5x crop body)"
+        "data": "Nikon D90 | f/4.8 | 1/125 sec | ISO 500 | 48 mm (1.5x crop body)"
     },
     {
         "file": "image037.jpg",
