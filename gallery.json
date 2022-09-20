@@ -153,6 +153,14 @@
         "data": "Nikon D90 | f/8 | 1/640 sec | ISO 200 | 90 mm (1.5x crop body)"
     },
     {
+        "file": "image102.jpg",
+        "title": "Pop Art",
+        "description": "In my ongoing quest to learn from the painters of the past, this time I take inspiration from Andy Warhol, famous for introducing the world to pop art.",
+        "title-cn": "波普艺术",
+        "description-cn": "在我不断寻求模仿过去的画家中，这一次我从波普艺术的祖师，安迪·沃霍尔（Andy Warhol）学习。",
+        "data": "Nikon D90 | f/5.6 | 1/50 sec | ISO 800 | 18 mm (1.5x crop body)"
+    },
+    {
         "file": "image025.jpg",
         "title": "Construction Worker",
         "description": "Sometimes we are insignificant to our creations, and that's awesome.",
